@@ -1,3 +1,6 @@
 first commit.
 
-int main(){return 0;}
+int main()
+{
+	//the main function
+}
